@@ -20,7 +20,7 @@ Binary classification is a form of classification — the process of predicting 
 5.plot the dataset and color the by class label
 
 
-## Program:
+## <br/><br/><br/><br/><br/><br/><br/>Program:
 ```
 /*
 Program to implement binary classification.
@@ -49,7 +49,7 @@ pyplot.legend()
 pyplot.show()
 ```
 
-## Output:
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>Output:
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/75235334/163752778-9729c706-24d7-4db6-9f7d-91f381151104.png)
 
